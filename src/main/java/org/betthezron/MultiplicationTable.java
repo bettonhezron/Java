@@ -1,4 +1,4 @@
-package org.example;
+package org.betthezron;
 
 import java.util.Scanner;
 
@@ -39,7 +39,7 @@ public class MultiplicationTable {
                 System.out.println("\nMultiplication Table for " + num);
 
                 for (int i = 1; i<= range; i++){
-                    System.out.println(num + " x" + i + "=" + (num * i));
+                    System.out.println(num + "x" + i + "=" + (num * i));
                 }
             }
 
